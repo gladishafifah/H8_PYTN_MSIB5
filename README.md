@@ -6,10 +6,10 @@ Author: Gladis Hafifah PYTN-KS16-01
 
 **Hi! Welcome to Learning Session Hacktiv8 Python for Data Science.**
 
-**Overview**
+**Overview**\
 This repostory contains documentation and resources from learning sessions at hacktiv8 in the python for data science program. This program helped me learn statistics, machine learning, and visualizing information, as well as learning various Python tools such as pandas, matplotlib, scikit-learning, seaborn, and many others.
 
-**Objective**
+**Objective**\
 The objectives to be achieved after learning this repostory are:
 - Use the functionality and features of Python used for data science.
 - Understand Practical Statistics used for data science.
@@ -20,7 +20,7 @@ The objectives to be achieved after learning this repostory are:
 - Implement Supervised and Unsupervised Learning to solve real cases.
 - Able to deploy the ML model that has been created.
 
-**Contents**
+**Contents**\
 This section covers what you'll learn in this labs.
 - [Introduction: Basic Syntax, Data Type, and Variable](https://github.com/gladishafifah/H8_PYTN_MSIB5/blob/e64b2a0792091a14c66c3457db151921474b344e/Sesi1.ipynb).
 - [Conditions, Control Flow & Looping](https://github.com/gladishafifah/H8_PYTN_MSIB5/blob/e64b2a0792091a14c66c3457db151921474b344e/Sesi2.ipynb)
