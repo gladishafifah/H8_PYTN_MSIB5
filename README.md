@@ -1,8 +1,8 @@
 # Hacktiv8 - Python For Data Science
 
-Title: Learning Session Hactiv8 - Python for Data Science.
-Last Updated: October 17, 2023
-Author: Gladis Hafifah PYTN-KS16-01
+Title: Learning Session Hactiv8 - Python for Data Science./
+Last Updated: October 17, 2023/
+Author: Gladis Hafifah PYTN-KS16-01/
 
 **Hi! Welcome to Learning Session Hacktiv8 Python for Data Science.**
 
